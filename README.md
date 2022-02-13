@@ -11,6 +11,11 @@ Note: Some browsers may not run the code as intended (For ex: Safari).
 
 ## Visual 1: Search Bar Activity
 
-
+![search_bar](https://github.com/yigitgezginis/Google-Homepage-Clone/blob/main/visuals/Google-Searchbar.gif)
 
 ## Visual 2: Button Activity
+
+![buttons](https://github.com/yigitgezginis/Google-Homepage-Clone/blob/main/visuals/Google-buttons.gif)
+
+## Contributing
+Pull-requests, issues, comments and stars are always appreciated!
