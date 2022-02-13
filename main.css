@@ -81,7 +81,7 @@
 }
 
 #search_logo {
-    padding-right: 530px;
+    margin-right: 530px;
 }
 
 #search_logo img {
@@ -90,7 +90,7 @@
 }
 
 #microphone_logo {
-    padding-left: 530px;
+    margin-left: 530px;
 }
 
 #microphone_logo img {
